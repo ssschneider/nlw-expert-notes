@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Deploy
 
-> [Clique aqui para navegar para o projeto!]()
+> [Clique aqui para navegar para o projeto!](https://nlw-expert-notes-omega.vercel.app/)
 
 <p align="center">
   <img alt="Preview" src=".github/preview.gif" width="100%">
@@ -50,7 +50,7 @@ Para rodar o projeto localmente, basta cumprir as seguintes etapas:
 Notas | NLW Expert is an application developed during the NLW Expert, the first Rocketseat's NLW of 2024. It is an notes app where the notes can be recorded through audio (if the browser supports it) or typed, then they are saved in memory. To do that, I've used:
 - React, Typescript, Speech Recognition API, TailwindCSS, PostCSS, ViteJS, RadixUI, Sonner and Lucide React
 
-> You can check out the deploy by [clicking here]() 
+> You can check out the deploy by [clicking here](https://nlw-expert-notes-omega.vercel.app/) 
 
 <!-- or run locally following these steps:
 ```
